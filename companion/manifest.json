@@ -1,13 +1,13 @@
 {
 	"$schema": "../node_modules/@companion-module/base/assets/manifest.schema.json",
-	"id": "screencloud",
+	"id": "screencloud-controller",
 	"name": "Screencloud Controller",
 	"shortname": "Screencloud",
 	"description": "Change channels and screens, get feedback and names",
 	"version": "1.1.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/RubeusKirk/companion-module-screencloud.git",
-	"bugs": "https://github.com/RubeusKirk/companion-module-screencloud/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-screencloud-controller.git",
+    "bugs": "https://github.com/bitfocus/companion-module-screencloud-controller/issues",
 	"maintainers": [
 		{
 			"name": "Ruben Böttinger",
